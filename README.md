@@ -14,6 +14,6 @@ API Call.<br>
 
 
 ### A Glance
-<img  src="https://user-images.githubusercontent.com/25722093/88289145-6b359300-cd12-11ea-8679-9248e305d435.png" width=500 height=500>
-<img  src="https://user-images.githubusercontent.com/25722093/88289217-87d1cb00-cd12-11ea-9633-f70617e77220.png" width=500 height=500>
+<img  src="https://user-images.githubusercontent.com/25722093/88289145-6b359300-cd12-11ea-8679-9248e305d435.png" width=1000 height=500>
+<img  src="https://user-images.githubusercontent.com/25722093/88289217-87d1cb00-cd12-11ea-9633-f70617e77220.png" width=1000 height=500>
 
